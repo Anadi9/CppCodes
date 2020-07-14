@@ -1,0 +1,139 @@
+09:48:07:345 (4844) > --- NIXXES log start ---
+09:48:07:351 (4844) > 
+09:48:07:353 (4844) > Memory statistics:
+09:48:07:355 (4844) >   Total RAM = 7.9 GB (8067 MB)
+09:48:07:357 (4844) >   Avail RAM = 6.1 GB (6282 MB)
+09:48:07:362 (4844) >   Total virtual memory = 4.0 GB (4095 MB)
+09:48:07:364 (4844) >   Avail virtual memory = 3.4 GB (3468 MB)
+09:48:07:366 (4844) > OS = Windows Vista (build 9200)
+09:48:07:368 (4844) > Starting Tomb Raider v1.00.716.5
+09:48:37:504 (4844) > [Main] Current directory: C:\Games\Tomb Raider
+09:48:37:520 (4844) > Mounted TITLE.000
+09:48:37:520 (4844) > Mounted PATCH.000
+09:48:37:551 (4844) > [Render] PCDeviceManager constructor start
+09:48:37:567 (4844) > [Render] PCDeviceManager constructor end
+09:48:37:598 (4844) > [Render] PCDX11DeviceManager constructor start
+09:48:37:598 (4844) > D3D Adapter Information:
+09:48:37:598 (4844) > Adapter Description: Intel(R) HD Graphics 5500
+09:48:37:598 (4844) > VendorID: 8086
+09:48:37:598 (4844) > DeviceID: 1616
+09:48:37:598 (4844) > Revision: 9
+09:48:37:598 (4844) > Failed to load NVAPI!
+09:48:37:614 (4844) > Reducing mouse lag by setting frame latency to 1...
+09:48:37:614 (4844) > D3D reports feature level 11 is supported.
+09:48:37:614 (4844) > D3D reports hardware multiple command list support.
+09:48:37:636 (4844) > D3D Adapter Information:
+09:48:37:638 (4844) > Adapter Description: Microsoft Basic Render Driver
+09:48:37:640 (4844) > VendorID: 1414
+09:48:37:643 (4844) > DeviceID: 8c
+09:48:37:645 (4844) > Revision: 0
+09:48:37:647 (4844) > Failed to load NVAPI!
+09:48:37:652 (4844) > Reducing mouse lag by setting frame latency to 1...
+09:48:37:654 (4844) > D3D reports feature level 11 is supported.
+09:48:37:656 (4844) > D3D reports hardware multiple command list support.
+09:48:37:658 (4844) > D3D reports hardware concurrent creates.
+09:48:37:661 (4844) > [Render] PCDX11DeviceManager constructor end
+09:48:46:153 (4844) > D3D Adapter Information:
+09:48:46:155 (4844) > Adapter Description: Intel(R) HD Graphics 5500
+09:48:46:157 (4844) > VendorID: 8086
+09:48:46:158 (4844) > DeviceID: 1616
+09:48:46:160 (4844) > Revision: 9
+09:48:46:166 (4844) > Failed to load NVAPI!
+09:48:46:175 (4844) > Reducing mouse lag by setting frame latency to 1...
+09:48:46:177 (4844) > D3D reports feature level 11 is supported.
+09:48:46:178 (4844) > D3D reports hardware multiple command list support.
+09:48:46:527 (4844) > [Render] Using DirectX 11
+09:48:46:964 (4844) > Initalizing audio...
+09:48:47:026 (4844) > Audio device found. FMOD reports 1 driver(s).
+09:48:47:026 (4844) > Audio Driver Name: Speakers/Headphones (Realtek High Definition Audio)
+09:48:47:026 (4844) > Speaker Mode: 2
+09:49:00:700 (4844) > [DLC] mounted pack 1 - 0x00000001 (steam id=208790)
+09:49:00:702 (4844) > [DLC] mounted pack 1 - 0x00000002 (steam id=208791)
+09:49:00:705 (4844) > [DLC] mounted pack 1 - 0x00000004 (steam id=208792)
+09:49:00:707 (4844) > [DLC] mounted pack 1 - 0x00000008 (steam id=208793)
+09:49:00:709 (4844) > [DLC] mounted pack 1 - 0x00000010 (steam id=208794)
+09:49:00:712 (4844) > [DLC] mounted pack 1 - 0x00010000 (steam id=208795)
+09:49:00:714 (4844) > [DLC] mounted pack 1 - 0x00020000 (steam id=208796)
+09:49:00:716 (4844) > [DLC] mounted pack 1 - 0x00040000 (steam id=208797)
+09:49:00:719 (4844) > [DLC] mounted pack 1 - 0x00100000 (steam id=208798)
+09:49:00:721 (4844) > [DLC] mounted pack 1 - 0x00200000 (steam id=208799)
+09:49:00:723 (4844) > [DLC] mounted pack 1 - 0x00400000 (steam id=208800)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00000400 (steam id=208801)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00000800 (steam id=208802)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00001000 (steam id=208803)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00002000 (steam id=208804)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00004000 (steam id=208805)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00100000 (steam id=208806)
+09:49:00:724 (4844) > [DLC] mounted pack 2 - 0x00200000 (steam id=208807)
+09:49:00:740 (4844) > [DLC] mounted pack 2 - 0x00400000 (steam id=208808)
+09:49:00:740 (4844) > [DLC] mounted pack 2 - 0x10000000 (steam id=208815)
+09:49:00:740 (4844) > [DLC] mounted DLC\PACK8.000 (steam id=208812, pack id=8)
+09:49:00:740 (4844) > [DLC] mounted DLC\PACK4.000 (steam id=208810, pack id=4)
+09:50:00:350 (4844) > Player object AddRef laracroft: 1 => 2
+09:50:00:358 (4844) > Player object AddRef laracroft: 2 => 3
+09:50:00:375 (4844) > Player object AddRef laracroft: 3 => 4
+09:50:32:748 (4844) > Player object RemRef laracroft: 4 => 3
+09:50:32:748 (4844) > Player object RemRef laracroft: 3 => 2
+09:50:32:748 (4844) > Player object RemRef laracroft: 2 => 1
+09:50:34:942 (4844) > Player object AddRef laracroft: 1 => 2
+09:50:34:959 (4844) > Player object AddRef laracroft: 2 => 3
+09:50:34:975 (4844) > Player object AddRef laracroft: 3 => 4
+09:51:12:062 (4844) > Player object RemRef laracroft: 4 => 3
+09:51:12:077 (4844) > Player object RemRef laracroft: 3 => 2
+09:51:12:077 (4844) > Player object RemRef laracroft: 2 => 1
+09:51:14:304 (4844) > Player object AddRef laracroft: 1 => 2
+09:51:14:321 (4844) > Player object AddRef laracroft: 2 => 3
+09:51:14:337 (4844) > Player object AddRef laracroft: 3 => 4
+09:53:05:220 (4844) > Player object RemRef laracroft: 4 => 3
+09:53:05:220 (4844) > Player object RemRef laracroft: 3 => 2
+09:53:05:236 (4844) > Player object RemRef laracroft: 2 => 1
+09:53:07:430 (4844) > Player object AddRef laracroft: 1 => 2
+09:53:07:447 (4844) > Player object AddRef laracroft: 2 => 3
+09:53:07:463 (4844) > Player object AddRef laracroft: 3 => 4
+09:53:33:518 (4844) > Player object RemRef laracroft: 4 => 3
+09:53:33:533 (4844) > Player object RemRef laracroft: 3 => 2
+09:53:33:533 (4844) > Player object RemRef laracroft: 2 => 1
+09:53:35:770 (4844) > Player object AddRef laracroft: 1 => 2
+09:53:35:787 (4844) > Player object AddRef laracroft: 2 => 3
+09:53:35:802 (4844) > Player object AddRef laracroft: 3 => 4
+09:53:50:905 (4844) > Player object RemRef laracroft: 4 => 3
+09:53:50:921 (4844) > Player object RemRef laracroft: 3 => 2
+09:53:50:921 (4844) > Player object RemRef laracroft: 2 => 1
+09:53:53:115 (4844) > Player object AddRef laracroft: 1 => 2
+09:53:53:133 (4844) > Player object AddRef laracroft: 2 => 3
+09:53:53:149 (4844) > Player object AddRef laracroft: 3 => 4
+09:54:30:250 (4844) > Player object RemRef laracroft: 4 => 3
+09:54:30:266 (4844) > Player object RemRef laracroft: 3 => 2
+09:54:30:266 (4844) > Player object RemRef laracroft: 2 => 1
+09:55:02:530 (4844) > Player object AddRef laracroft: 1 => 2
+09:55:02:538 (4844) > Player object AddRef laracroft: 2 => 3
+09:55:02:549 (4844) > Player object AddRef laracroft: 3 => 4
+09:55:03:734 (4844) > Player object RemRef laracroft: 4 => 3
+09:55:43:488 (4844) > Player object RemRef laracroft: 3 => 2
+09:55:43:488 (4844) > Player object RemRef laracroft: 2 => 1
+09:55:45:696 (4844) > Player object AddRef laracroft: 1 => 2
+09:55:45:714 (4844) > Player object AddRef laracroft: 2 => 3
+09:55:45:729 (4844) > Player object AddRef laracroft: 3 => 4
+09:55:45:948 (4844) > Player object RemRef laracroft: 4 => 3
+09:56:17:165 (4844) > Player object RemRef laracroft: 3 => 2
+09:56:17:165 (4844) > Player object RemRef laracroft: 2 => 1
+09:56:19:413 (4844) > Player object AddRef laracroft: 1 => 2
+09:56:19:430 (4844) > Player object AddRef laracroft: 2 => 3
+09:56:19:446 (4844) > Player object AddRef laracroft: 3 => 4
+09:56:19:633 (4844) > Player object RemRef laracroft: 4 => 3
+09:57:31:658 (4844) > Player object AddRef laracroft: 3 => 4
+10:09:59:441 (4844) > Player object RemRef laracroft: 4 => 3
+10:09:59:441 (4844) > Player object RemRef laracroft: 3 => 2
+10:09:59:441 (4844) > Player object RemRef laracroft: 2 => 1
+10:10:01:641 (4844) > Player object AddRef laracroft: 1 => 2
+10:10:01:659 (4844) > Player object AddRef laracroft: 2 => 3
+10:10:01:675 (4844) > Player object AddRef laracroft: 3 => 4
+10:15:17:793 (4844) > Player object RemRef laracroft: 4 => 3
+10:15:17:793 (4844) > Player object RemRef laracroft: 3 => 2
+10:15:17:793 (4844) > Player object RemRef laracroft: 2 => 1
+10:15:20:496 (4844) > Player object AddRef laracroft: 1 => 2
+10:15:20:514 (4844) > Player object AddRef laracroft: 2 => 3
+10:15:20:529 (4844) > Player object AddRef laracroft: 3 => 4
+10:16:10:878 (4844) > Player object RemRef laracroft: 4 => 3
+10:16:10:894 (4844) > Player object RemRef laracroft: 3 => 2
+10:16:10:894 (4844) > Player object RemRef laracroft: 2 => 1
